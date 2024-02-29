@@ -38,7 +38,9 @@ style="border-radius: 4px"</a>
 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D111)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![netbeans](https://img.shields.io/badge/apache%20netbeans-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3898&height=120&section=footer"/>
