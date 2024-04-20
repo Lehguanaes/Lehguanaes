@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3898&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Letícia+Guanaes;I'm+16+years+old;I'm+from+Brazil;I+study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
 <br/>
 
 <div align="center">  
@@ -18,10 +17,10 @@
 <br>
 
 <div align="center"> 
-<a href="https://instagram.com/lehguanaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-style="border-radius: 4px"</a>
-<a href = "mailto:lehguanaes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-777BB4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 4px"></a>
-<a href="https://linkedin.com/in/letícia-guanaes-18b66b298" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 4px" target="_blank"></a>
+  <a href="https://instagram.com/lehguanaes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+style="border-radius: 4px"></a>
+  <a href = "mailto:lehguanaes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-777BB4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 4px"></a>
+  <a href="https://linkedin.com/in/letícia-guanaes-18b66b298" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 4px" target="_blank"></a>
  </div>
   
  ### Studying in this moment:
