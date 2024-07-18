@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3898&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3898&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Letícia+Guanaes;I'm+16+years+old;I'm+from+Brazil;I+study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3898&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Letícia+Guanaes;I'm+17+years+old;I'm+from+Brazil;I+study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,10 +20,10 @@ style="border-radius: 4px"></a>
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
+![C](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00a8ff)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF0000)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-
 
  ### Tools:
 
@@ -32,6 +32,6 @@ style="border-radius: 4px"></a>
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![netbeans](https://img.shields.io/badge/apache%20netbeans-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
-
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF3898&height=120&section=footer"/>
