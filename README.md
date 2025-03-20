@@ -2,7 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3898&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Letícia+Guanaes;I'm+17+years+old;I'm+from+Brazil;I+study+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<br/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lehguanaes&show_icons=true&count_private=true&hide_border=true&title_color=FF3898&icon_color=ffcc00&text_color=DFDADA&bg_color=0d1117" alt="Letícia Guanaes - github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehguanaes&layout=compact&hide_border=true&title_color=FF3898&text_color=DFDADA&bg_color=0d1117" />
+</div>
+
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehguanaes&bg_color=0d1117&color=dfdada&line=ff3898&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -29,7 +35,9 @@ style="border-radius: 4px"></a>
 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=FF2D20)&nbsp;
 ![netbeans](https://img.shields.io/badge/apache%20netbeans-0D1117?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=1B6AC6)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84)&nbsp;
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D)&nbsp;
