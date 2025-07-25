@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ce7594&height=120&section=header"/>
 
-<img width="1900" height="1080" alt="Letícia-Icon" src="https://github.com/user-attachments/assets/6f3c2e0f-2f69-497a-b5f0-52adf0865f88" />
+<img width="1900" height="1080" alt="Letícia-Icon" src="https://github.com/user-attachments/assets/58ee68e9-95d4-4c92-b895-a361ed2988a5" />
 
 <br>
 
